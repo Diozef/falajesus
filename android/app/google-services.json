@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345054554535",
+    "project_id": "sou-igreja-psrzx8",
+    "storage_bucket": "sou-igreja-psrzx8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345054554535:android:7ca34c5aae9b6731e32e82",
+        "android_client_info": {
+          "package_name": "com.souigreja.thechurch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7J27k9Q97GHYCff8sW5DJdsibSwo8mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
